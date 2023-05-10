@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertorTest", "ConvertorTest\ConvertorTest.csproj", "{F73A65E8-A22A-4CF6-BE66-9FE48188BFCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnglishToNepaliDateConvertor", "EnglishToNepaliDateConvertor\EnglishToNepaliDateConvertor.csproj", "{B7E5AFA9-3DED-4A5E-B2A2-6479334045A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73A65E8-A22A-4CF6-BE66-9FE48188BFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73A65E8-A22A-4CF6-BE66-9FE48188BFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73A65E8-A22A-4CF6-BE66-9FE48188BFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73A65E8-A22A-4CF6-BE66-9FE48188BFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E5AFA9-3DED-4A5E-B2A2-6479334045A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E5AFA9-3DED-4A5E-B2A2-6479334045A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E5AFA9-3DED-4A5E-B2A2-6479334045A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E5AFA9-3DED-4A5E-B2A2-6479334045A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB8FFB8-1BED-4F7B-86BB-56F38B63C04D}
+	EndGlobalSection
+EndGlobal
